@@ -1,0 +1,4 @@
+flask
+flask_restful
+scipy==1.0.1
+xgboost
